@@ -1,0 +1,6 @@
+path: data  # dataset root dir
+train: C:\PSU\DeepNeuro\Lab7\data_task\images\Train # train images (relative to 'path') 
+val: C:\PSU\DeepNeuro\Lab7\data_task\images\Val # val images (relative to 'path')
+
+nc: 3
+names: [ 'face', 'hair', 'lips' ]
